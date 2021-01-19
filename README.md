@@ -1,2 +1,7 @@
 # fetchm2m
-Fetch M2M lines from their public API
+Fetch lines from their public API
+
+## Instructions
+
+    npm i
+    node index.js
